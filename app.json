@@ -1,12 +1,12 @@
 {
-    "name": "sʜɪᴠ ダ ᴍᴜsɪᴄ",
+    "name": "Toxic ダ ᴍᴜsɪᴄ",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://telegra.ph/file/507a9baf0969f930614c6.jpg",
+    "logo": "https://telegra.ph/file/8c623ff7299b03416d519.jpg",
     "keywords": [
     "python3",
     "telegram",
     "bot",
-    "AnonX",
+    "ToxicX",
     "MusicBot",
     "telegram-bot",
     "pyrogram"
